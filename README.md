@@ -32,6 +32,8 @@ Welcome tooooo NEXT CRUD PROJECT !
 ## ความต้องการระบบ
   - Next.js
   - Node.js
+  - MongoDB
+  - 
 
 ## วิธีการติดตั้ง
 
